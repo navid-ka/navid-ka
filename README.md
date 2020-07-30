@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<a align="left" alt="" width="22px" src="https://navidkeyani.com" />
+<a align="left" alt="" width="22px" src="https://navidkeyani.com">https://navidkeyani.com</a>
 
 <br />
 
