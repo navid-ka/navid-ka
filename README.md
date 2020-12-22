@@ -3,9 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some websites.
-- 🌱 I’m currently learning React, Django, JavaScript
-- 📫 How to reach me: navidkeyani in gmail.com
-- ⚡ Fun fact: Proud father.
+- 📫 How to reach me: navidkeyani in gmail.com.
 
 ### Connect with me:
 
