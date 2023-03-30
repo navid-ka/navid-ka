@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on some websites.
+- 🔭 I’m currently working on some websites and learning C on 42 Barcelona Academy.
 - 📫 How to reach me: navidkeyani in gmail.com.
 
 ### Connect with me:
